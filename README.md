@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy Gabriel Solano
 
-<!--
-**Selmth/Selmth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Biología en el **CCCSP**.  
+Me interesa aprender y explorar nuevas herramientas, tanto en ciencia como en tecnología.  
+También... *la cocina se me quemó*, pero seguimos adelante. 💀💀💀💀
 
-Here are some ideas to get you started:
+### 🧪 Sobre mí
+- 📚 Estudio: **Biología**
+- 🐍 Sé usar un poco de **Python**
+- 📬 Contacto: [gabosolano007@gmail.com](mailto:gabosolano007@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> "Aprender es el fuego que no se apaga, aunque se queme la cocina."
+
+    https://aleen42.github.io/badges/src/marussia.svg
